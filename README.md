@@ -20,7 +20,7 @@ A guide for setting up and using Vortex with SDV
   
   -Migrating Mods 
   
-    If you are installing Vortex after previously manually installing files into the /Mods folder, there is a bit of work that needs to be done. Because Vortex primarily handles .zip and other archive files, a /Mods folder full of folders isn't ideal. 
+   If you are installing Vortex after previously manually installing files into the /Mods folder, there is a bit of work that needs to be done. Because Vortex primarily handles .zip and other archive files, a /Mods folder full of folders isn't ideal. 
     -Adding existing zip files
    Once you have a clean /Mods folder, we can start reinstalling mods. If the .zip files are still available on your PC, these can be installed manually with ![thisbutton](https://user-images.githubusercontent.com/10282272/103912257-a7945a00-50cc-11eb-8187-ab1769d2863f.png), or dragged into the main Vortex mods window
 -common issues
