@@ -9,6 +9,8 @@ A guide for setting up and using Vortex with SDV
 
   -TODO initial install 
   
+   -Starter toggle in INTERFACE
+  
   -Explanation of staging, deploy, and purge 
   
   ![folders](https://user-images.githubusercontent.com/10282272/103912227-9f3c1f00-50cc-11eb-8a5b-90b3ec42bea5.png)
