@@ -28,13 +28,13 @@ A guide for setting up and using Vortex with SDV
 -common issues
 
 ## mods not being installed
-  -check game path
+  ### check game path
   ![game location](https://user-images.githubusercontent.com/10282272/103911412-a0208100-50cb-11eb-801e-338748b2e7a1.png)
-  -check mod path
-  -check smapi path
-  -check deployment
+  ### check mod path
+  ### check smapi path
+  ### check deployment
  ## SMAPI can't find game
-  -multiple installs
-  -multiple steam libraries
-  -Stardew missing .exe at the end?????
+  ### multiple installs
+  ### multiple steam libraries
+  ### Stardew missing .exe at the end????? (maybe not)
   
