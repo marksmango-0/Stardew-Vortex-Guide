@@ -33,4 +33,7 @@ A guide for setting up and using Vortex with SDV
   -check mod path
   -check smapi path
   -check deployment
+ -SMAPI can't find game
+  -multiple installs
+  -multiple steam libraries
   
