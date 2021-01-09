@@ -36,4 +36,5 @@ A guide for setting up and using Vortex with SDV
  -SMAPI can't find game
   -multiple installs
   -multiple steam libraries
+  -Stardew missing .exe at the end?????
   
